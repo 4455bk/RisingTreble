@@ -1,7 +1,8 @@
 PRODUCT_MAKEFILES := \
-        $(LOCAL_DIR)/rising_arm64_bgN.mk \
-        $(LOCAL_DIR)/rising_arm64_bcgN.mk \
-        $(LOCAL_DIR)/rising_arm64_bvN.mk \
+	$(LOCAL_DIR)/NX769J.mk \
+	$(LOCAL_DIR)/rising_arm64_bgN.mk \
+	$(LOCAL_DIR)/rising_arm64_bcgN.mk \
+	$(LOCAL_DIR)/rising_arm64_bvN.mk \
 	$(LOCAL_DIR)/treble_arm64_avS.mk \
 	$(LOCAL_DIR)/treble_arm64_avN.mk \
 	$(LOCAL_DIR)/treble_arm_avS.mk \

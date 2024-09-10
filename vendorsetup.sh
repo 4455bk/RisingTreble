@@ -58,7 +58,7 @@ rm -rf vendor/rising/keys
 git clone https://github.com/ItsLynix/RisingKeys vendor/rising/keys -b master --depth 1
 
 rm -rf treble_app
-git clone https://github.com/TrebleDroid/treble_app treble_app -b master --depth=1
+git clone https://github.com/4455bk/treble_app treble_app -b master --depth=1
 
 rm -rf prebuilts/vndk/v28
 git clone https://android.googlesource.com/platform/prebuilts/vndk/v28 ./prebuilts/vndk/v28
